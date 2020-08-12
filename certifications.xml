@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<ss:Styles>
+     <ss:Style ss:ID="bold">
+         <ss:Font ss:Bold="1"/>
+     </ss:Style>
+     <ss:Style ss:ID="Hyperlink">
+          <ss:Font ss:Color="#0000FF" ss:Underline="Single"/>
+     </ss:Style>
+</ss:Styles>
+<ss:Worksheet ss:Name="certifications">
+    <ss:Table>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="111"/>
+        <ss:Column ss:Width="111"/>
+        <ss:Column ss:Width="161"/>
+        <ss:Column ss:Width="281"/>
+        <ss:Column ss:Width="122"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="110"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Column ss:Width="100"/>
+        <ss:Row ss:StyleID="bold">
+            <ss:Cell> <ss:Data ss:Type="String">UEC Group Id</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Cert DB Id</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Type</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Release</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Partner</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Product</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Product Details</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">BIOS</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Test Configuration</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Feature Category</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Features</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Cert Type</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Status</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">HCL Posted</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">REF</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">POR</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Carry Forward</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">HCL Candidate</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Dropped</ss:Data> </ss:Cell>
+            <ss:Cell> <ss:Data ss:Type="String">Action</ss:Data> </ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6239740"><ss:Data ss:Type="Number">6239740</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=428"><ss:Data ss:Type="String">ESXi 6.7 U2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6950147"><ss:Data ss:Type="Number">6950147</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=448"><ss:Data ss:Type="String">ESXi 7.0</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6950149"><ss:Data ss:Type="Number">6950149</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=448"><ss:Data ss:Type="String">ESXi 7.0</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702948"><ss:Data ss:Type="Number">6702948</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702949"><ss:Data ss:Type="Number">6702949</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702946"><ss:Data ss:Type="Number">6702946</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702947"><ss:Data ss:Type="Number">6702947</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702950"><ss:Data ss:Type="Number">6702950</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6702951"><ss:Data ss:Type="Number">6702951</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=485"><ss:Data ss:Type="String">ESXi 6.7 U3</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6950148"><ss:Data ss:Type="Number">6950148</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=448"><ss:Data ss:Type="String">ESXi 7.0</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6239739"><ss:Data ss:Type="Number">6239739</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=428"><ss:Data ss:Type="String">ESXi 6.7 U2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6239741"><ss:Data ss:Type="Number">6239741</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=428"><ss:Data ss:Type="String">ESXi 6.7 U2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073840"><ss:Data ss:Type="Number">6073840</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=427"><ss:Data ss:Type="String">ESXi 6.7 U1</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073837"><ss:Data ss:Type="Number">6073837</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=427"><ss:Data ss:Type="String">ESXi 6.7 U1</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073841"><ss:Data ss:Type="Number">6073841</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=427"><ss:Data ss:Type="String">ESXi 6.7 U1</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Carry Forward</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073839"><ss:Data ss:Type="Number">6073839</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=369"><ss:Data ss:Type="String">ESXi 6.7</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40386"><ss:Data ss:Type="String">Lenovo Converged HX7500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX7500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Compatible</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073838"><ss:Data ss:Type="Number">6073838</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=369"><ss:Data ss:Type="String">ESXi 6.7</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40384"><ss:Data ss:Type="String">Lenovo Converged HX3500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX3500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Compatible</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">0</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6147661"><ss:Data ss:Type="Number">6147661</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=369"><ss:Data ss:Type="String">ESXi 6.7</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=21875"><ss:Data ss:Type="String"> Lenovo ThinkServer SD330</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> Lenovo ThinkServer SD330 CPUSeries-Intel Xeon E5-2400 Series/FF-Rackmount/Sockets-1</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 2.7.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Full Certification</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Not Supported</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">02/13/19</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">true</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+        <ss:Row>
+            <ss:Cell><ss:Data ss:Type="Number">1823</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Certification/edit;uiid=6073836"><ss:Data ss:Type="Number">6073836</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Server</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Release/Release/edit;uiid=369"><ss:Data ss:Type="String">ESXi 6.7</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo</ss:Data></ss:Cell>
+            <ss:Cell ss:StyleID="Hyperlink" ss:HRef="http://ewebprod-sjc31.eng.vmware.com:8080/eweb/flex/#uipath=Search/Product/serveredit;uiid=40385"><ss:Data ss:Type="String">Lenovo Converged HX5500</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Lenovo Converged HX5500 CPUSeries-Intel Xeon E5-2600-v3 Series/FF-Rackmount/Sockets-2</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Dell Inc. 6.1.0 LegacyBIOS</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Standard</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Full Certification</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Certified</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">06/03/18</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">Hard Stop</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String">false</ss:Data></ss:Cell>
+            <ss:Cell><ss:Data ss:Type="String"> </ss:Data></ss:Cell>
+        </ss:Row>
+    </ss:Table>
+</ss:Worksheet>
+</ss:Workbook>
